@@ -1,0 +1,12 @@
+{
+  "name": "VideoShare",
+  "displayName": "VideoShare",
+  "expo": {
+    "name": "VideoShare",
+    "slug": "VideoShare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
